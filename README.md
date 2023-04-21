@@ -1,4 +1,4 @@
-# soilsafe
+# 🌱 SoilSafe
 Reducing the impact of natural disasters in the Bahamas one grain of soil at a time.
 
 How to run:
